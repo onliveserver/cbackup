@@ -59,7 +59,7 @@ remotepath=>/your/remote/path
 ## Installation
 
 ```bash
-git clone https://github.com/tossraj/cbackup.git
+git clone https://github.com/onliveserver/cbackup.git
 cd cbackup
 chmod +x install.sh
 ./install.sh
