@@ -153,7 +153,4 @@ Backup logs are saved in:
 * You can schedule this script using `cron` for automatic backups.
 
 ```
-
-Let me know if you want a `cron` example or `install.sh` instructions included.
-```
 # cbackup
